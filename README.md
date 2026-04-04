@@ -41,7 +41,7 @@ Help from you in contributing content would be very much appreciated!
 This repository has **practical** content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful.
 
 The information in this repository is condensed. Ultimately, the key to succeeding in technical interviews is consistent practice and I don't want to bore you with too many words. I tell you the minimum you need to know on how to go about navigating the interview process, you go and practice and land your dream job.
-
+.
 ## Who is this for?
 
 Anybody who wants to land a job at a tech company but is new to technical interviews, seasoned engineers who have not been on the other side of the interviewing table in a while and want to get back into the game, or anyone who wants to be better at technical interviewing.
