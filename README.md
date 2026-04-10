@@ -36,7 +36,7 @@ Besides the usual algorithm questions, other **awesome** stuff includes:
 
 Help from you in contributing content would be very much appreciated!
 
-## Why would you read this?
+## Why would you read this?.
 
 This repository has **practical** content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful.
 
